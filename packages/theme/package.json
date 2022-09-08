@@ -1,0 +1,6 @@
+{
+  "name": "@pgcm-ui/theme",
+  "version": "1.0.0",
+  "description": "for pgcm-ui style.",
+  "main": "index.scss"
+}
