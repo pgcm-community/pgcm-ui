@@ -1,0 +1,11 @@
+{
+  "name": "docs",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vitepress": "1.0.0-alpha.13"
+  }
+}

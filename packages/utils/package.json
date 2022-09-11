@@ -1,0 +1,9 @@
+{
+  "name": "@pgcm-ui/utils",
+  "private": true,
+  "main": "index.ts",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  }
+}
