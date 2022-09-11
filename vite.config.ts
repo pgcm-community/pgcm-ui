@@ -9,7 +9,7 @@ export default defineConfig({
     vue(),
     dts({
       tsConfigFilePath: './tsconfig.json',
-      include: ['./packages/components'],
+      include: ['./packages/components']
     })
   ],
   build: {
@@ -21,7 +21,7 @@ export default defineConfig({
       output: {
         format: 'es',
         entryFileNames: '[name].js',
-        preserveModules: true,
+        preserveModules: true
       }
     }
   }

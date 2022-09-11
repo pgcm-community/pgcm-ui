@@ -1,17 +1,17 @@
 export const sidebar = {
-  "/guild/": [
+  '/guild/': [
     {
-      text: "基础",
+      text: '基础',
       items: [
         {
-          text: "安装",
-          link: "/guild/installation",
+          text: '安装',
+          link: '/guild/installation'
         },
         {
-          text: "快速开始",
-          link: "/guild/quickstart",
-        },
-      ],
-    },
-  ],
+          text: '快速开始',
+          link: '/guild/quickstart'
+        }
+      ]
+    }
+  ]
 }

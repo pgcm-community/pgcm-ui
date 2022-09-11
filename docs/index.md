@@ -23,10 +23,10 @@ image:
   alt: PGCM
 
 features:
-- icon: 💡
-  title: Vue3 + TS组件库
-  details: 基于vite打包和TypeScript开发
-- icon: 🛠️
-  title: 按需引入
-  details: 直接支持按需引入无需配置任何插件。
+  - icon: 💡
+    title: Vue3 + TS组件库
+    details: 基于vite打包和TypeScript开发
+  - icon: 🛠️
+    title: 按需引入
+    details: 直接支持按需引入无需配置任何插件。
 ---
